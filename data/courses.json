@@ -1,26 +1,32 @@
 [
     {
         "id": "01",
+        "img": "https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ",
         "title": "Learn C# Programming"
     },
     {
         "id": "02",
+        "img": "https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg",
         "title": "Learn Responsive Design"
     },
     {
         "id": "03",
+        "img": "https://img.devrant.com/devrant/rant/r_1762271_GSt5D.jpg",
         "title": "GUI Programming"
     },
     {
         "id": "04",
+        "img": "https://c8.alamy.com/zooms/9/495d43d84182403d87dcdfc7c16b0f0d/2cfja3k.jpg",
         "title": "Learn C++"
     },
     {
         "id": "05",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsy5jSnZbLzPx7WinhxgKZkWz91u0PEg-dQ&usqp=CAU",
         "title": "Modern React with Redux"
     },
     {
         "id": "06",
+        "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
         "title": "React Front To Back"
     }
 ]

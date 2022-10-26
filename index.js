@@ -17,14 +17,14 @@ app.get('/courses/:id', (req, res) => {
     res.send(courseId);
 })
 
-app.get('/course_details', (req, res) => {
+app.get('/details', (req, res) => {
     res.send(courseDetails)
 })
 
-app.get('/course_details/:id', (res, req) => {
+app.get('/details/:id', (req, res) => {
     const id = req.params.id;
-    const detailsId = courseDetails.find(d => d.course_id === id)
-    res.send(detailsId)
+    const detailsId = courseDetails.find(d => d.course_id == id)
+    res.send(detailsId);
 })
 
 app.get('/', (req, res) => {

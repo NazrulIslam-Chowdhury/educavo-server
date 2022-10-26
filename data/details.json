@@ -1,0 +1,104 @@
+[
+    {
+        "course_id": "06bcd6ea-ab97-4046-a70b-3ad2ad5dcc4a",
+        "id": "01",
+        "title": "Learn C# Programming (In Ten Easy Steps)",
+        "categories": "Programming Language",
+        "img": "https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ",
+        "course_duration": 6010,
+        "ratings": 5,
+        "price": 22,
+        "course_details": "What is c#?\n\nC# is a programming language which is pronounced 'C Sharped'.\n\nIt is originally designed for windows.\n\nThe C# programming language is a high-level programming language, which means it uses a more simple syntax than other languages like C++.\n\n C# abstracts away most of the machine-level code, so you can focus more on programming. The C# language is good for beginners for these reasons.\n\nWhy Should You Learn C#?\n\n1.C# has a good learning curve.\n\n2.C# is backed by Microsoft.\n\n3.C# developers earn high salaries\n\nHow to Learn C# Free:\n\nSyntax and Variables.further, you’ll need to master the syntax for C#.\n\nThe next step in your journey will be to learn about variables. These are used to store data in a program. Here are the main topics related to syntax and variables that you’ll need to learn:\n\n1. How to create a C# program\n\n2.How to receive user input\n\n3. How to write comments\n\n4.How to declare a variable.\n\n4.What data types can be used with variables\n\n5.How to convert the data type used by a variable.\n\nLoops and Conditionals:\n\n Loops allow you to automate repetitive tasks in a program. They are useful because they allow you to reuse similar code multiple times instead of repeating code manually in your program.\n\n Conditionals allow you to control the flow of your program. They run certain code when a set of conditions is met in your program. This gives you greater control over when certain parts of a program are run.\n\nLoops and Conditionals\n\nLoops and Conditionals\n\nClasses and Objects\n\nInheritance and Interfaces:\n\nInheritance is a feature of object-oriented programming that allows you to create a class based on existing ones. Interfaces allow you to enforce certain properties on a class.\n\nBoth these features can help you reduce repetition in your code and write more efficient and readable programs. The main topics you should master are:\n\n1.What is an interface\n\n2.How to build an interface\n\n3.How to test an interface\n\n4.Parent and child classes\n\n5.How to create a parent class\n\n6.The inherited keyword\n\n7.Accessing inherited members using base\n\n8.Overriding inherited members of a class\n\nOnce you’ve mastered these basic topics, you’ll be ready to take the next step in your journey: building projects. Ideally, you’ll want to start building projects as soon as you can, even as you are learning these concepts. This will help you reinforce your knowledge and practice the theory that you have learned in class.\n\nIn addition, once you’ve learned the basics, you can go on to learn frameworks like .Net or explore the Unity game engine.\n\nLearn C# Online Resources\n\nBecause there are so many great resources out there on how to learn C#, it can be difficult to know where to begin.\n\nThe answer to that question lies in your learning style. Do you like online tutorials? Or do you prefer to read a book? Do you want to learn in a classroom-based environment or do you prefer working at your own pace? Whatever your learning style is, you should try to anchor the materials toward that style so you stay engaged.\n\nBuild a Project\n\nLearning from tutorials can only take you so far; after you’ve mastered the basics, you should start working on your own projects.\n\nWorking on projects is a great way to learn because they allow you to apply the theories that you have learned. This can help with boosting retention. You’ll have to think about both the concepts you have learned and how they apply to the specific project that you’re building.\n\nTo start, you should focus on building a few basic projects. This will help you get used to working on independent work that you’ve chosen. Then, when you’re ready, you can move your attention toward bigger projects.\n\nJoin a Developer Community\n\nPractice Your C# Skills\n\nWrapping up\n\nC# may be an older programming language than others, but it is still widely used today. And, it has an active developer community. If you want to build games for Windows, build websites using .Net, or just create an app for a Windows device, knowing C# is useful.",
+        "instructor": {
+            "instructor_name": "Maurie Bellwood",
+            "instructor_img": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "students": 9979,
+            "published-date": "11/21/2021"
+        }
+    },
+    {
+        "id": "02",
+        "course_id": "122996a0-6231-430c-97a3-2cbd17e9fc8d",
+        "title": "Learn Responsive Design with HTML & CSS",
+        "categories": "Programming Language",
+        "img": "https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg",
+        "course_duration": 5039,
+        "ratings": 5,
+        "price": 77,
+        "course_details": "HTML: HyperText Markup Language:\n\nHTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).\n\n'Hypertext' refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.\n\nHTML uses 'markup' to annotate text, images, and other content for display in a Web browser. HTML markup includes special 'elements such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.\n\nAn HTML element is set off from other text in a document by 'tags', which consist of the element name surrounded by '<'' and '>''. The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way. However, the convention and recommended practice is to write tags in lowercase.\n\nThe articles below can help you learn more about HTML.\n\nCSS: Cascading Style Sheets:\n\nCascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.\n\nCSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number.\n\nAfter CSS 2.1, the scope of the specification increased significantly and the progress on different CSS modules started to differ so much, that it became more effective to develop and release recommendations separately per module. Instead of versioning the CSS specification, W3C now periodically takes a snapshot of the latest stable state of the CSS specification and individual modules progress. CSS modules now have version numbers, or levels, such as CSS Color Module Level 5.",
+        "instructor": {
+            "instructor_name": "Abby Vanyushin",
+            "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+            "students": 7486,
+            "published-date": "3/30/2022"
+        }
+    },
+    {
+        "id": "03",
+        "course_id": "ac7a78ac-f7c3-4bc1-bee7-ee07e56558c3",
+        "title": "Java Swing (GUI) Programming: From Beginner to Expert",
+        "categories": "Programming Language",
+        "img": "https://img.devrant.com/devrant/rant/r_1762271_GSt5D.jpg",
+        "course_duration": 5238,
+        "ratings": 4,
+        "price": 50,
+        "course_details": "Swing in Java is a lightweight GUI toolkit which has a wide variety of widgets for building optimized window based applications. It is a part of the JFC( Java Foundation Classes). It is build on top of the AWT API and entirely written in java. It is platform independent unlike AWT and has lightweight components.\n\nJava Swing tutorial is a part of Java Foundation Classes (JFC) that is used to create window-based applications. It is built on the top of AWT (Abstract Windowing Toolkit) API and entirely written in java.\n\nUnlike AWT, Java Swing provides platform-independent and lightweight components.\n\nThe javax.swing package provides classes for java swing API such as JButton, JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser etc.",
+        "instructor": {
+            "instructor_name": "Shay Rudolph",
+            "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+            "students": 9384,
+            "published-date": "9/7/2022"
+        }
+    },
+    {
+        "id": "04",
+        "course_id": "120419f1-7a53-4d1c-ad8b-88af6e437f8e",
+        "title": "C++: From Beginner to Expert",
+        "categories": "Programming Language",
+        "img": "https://c8.alamy.com/zooms/9/495d43d84182403d87dcdfc7c16b0f0d/2cfja3k.jpg",
+        "course_duration": 6314,
+        "ratings": 5,
+        "price": 61,
+        "course_details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms.\n\n Why Use C++\n\nC++ is one of the world's most popular programming languages.\n\nC++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems.\n\nC++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.\n\nC++ is portable and can be used to develop applications that can be adapted to multiple platforms.\n\nC++ is fun and easy to learn!\n\nAs C++ is close to C, C# and Java, it makes it easy for programmers to switch to C++ or vice versa.",
+        "instructor": {
+            "instructor_name": "Rodolph Antosch",
+            "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+            "students": 6256,
+            "published-date": "7/12/2022"
+        }
+    },
+    {
+        "id": "05",
+        "course_id": "b0b592ac-5f77-4e55-8ef9-0e9332430023",
+        "title": "Modern React with Redux",
+        "categories": "Programming Language",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsy5jSnZbLzPx7WinhxgKZkWz91u0PEg-dQ&usqp=CAU",
+        "course_duration": 6462,
+        "ratings": 2,
+        "price": 71,
+        "course_details": "React Reedux:\n\nRedux itself is a standalone library that can be used with any UI layer or framework, including React, Angular, Vue, Ember, and vanilla JS. Although Redux and React are commonly used together, they are independent of each other.\n\nIf you are using Redux with any kind of UI framework, you will normally use a 'UI binding' library to tie Redux together with your UI framework, rather than directly interacting with the store from your UI code.\n\nReact Redux is the official Redux UI binding library for React. If you are using Redux and React together, you should also use React Redux to bind these two libraries.\n\nTo understand why you should use React Redux, it may help to understand what a 'UI binding library' does.",
+        "instructor": {
+            "instructor_name": "Fredia Ciccerale",
+            "instructor_img": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+            "students": 8707,
+            "published-date": "3/31/2022"
+        }
+    },
+    {
+        "id": "06",
+        "course_id": "54fb700c-bc4b-40e3-8e19-a6fe504b4073",
+        "title": "React Front To Back",
+        "categories": "Programming Language",
+        "img": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+        "course_duration": 6296,
+        "ratings": 4,
+        "price": 54,
+        "course_details": "What Is React?\n\nReact is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.\n\nCreate a New React App\n\nUse an integrated toolchain for the best user and developer experience.\n\nThis page describes a few popular React toolchains which help with tasks like:\n\n.Scaling to many files and components.\n\n.Using third-party libraries from npm.\n\n.Detecting common mistakes early.\n\n.Live-editing CSS and JS in development.\n\n.Optimizing the output for production.The toolchains recommended on this page don’t require configuration to get started.",
+        "instructor": {
+            "instructor_name": "Fay Sapey",
+            "instructor_img": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "students": 5470,
+            "published-date": "9/19/2022"
+        }
+    }
+]

@@ -11,10 +11,11 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-app.get('/courses/:id', (req, res) => {
-    const id = req.params.id;
-    const courseId = courses.find(c => c.id == id);
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id
+    const courseId = courses.find(c => c.id === id);
     res.send(courseId);
+
 })
 
 app.get('/details', (req, res) => {
@@ -23,7 +24,7 @@ app.get('/details', (req, res) => {
 
 app.get('/details/:id', (req, res) => {
     const id = req.params.id;
-    const detailsId = courseDetails.find(d => d.course_id == id)
+    const detailsId = courseDetails.find(d => d.course_id === id)
     res.send(detailsId);
 })
 
@@ -34,3 +35,6 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
+
+
+

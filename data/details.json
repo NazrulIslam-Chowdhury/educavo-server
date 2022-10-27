@@ -1,14 +1,14 @@
 [
     {
         "course_id": "06bcd6ea-ab97-4046-a70b-3ad2ad5dcc4a",
-        "id": "01",
+        "_id": "01",
         "title": "Learn C# Programming (In Ten Easy Steps)",
         "categories": "Programming Language",
         "img": "https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ",
         "course_duration": 6010,
         "ratings": 5,
         "price": 22,
-        "course_details": "What is c#?\n\nC# is a programming language which is pronounced 'C Sharped'.\n\nIt is originally designed for windows.\n\nThe C# programming language is a high-level programming language, which means it uses a more simple syntax than other languages like C++.\n\n C# abstracts away most of the machine-level code, so you can focus more on programming. The C# language is good for beginners for these reasons.\n\nWhy Should You Learn C#?\n\n1.C# has a good learning curve.\n\n2.C# is backed by Microsoft.\n\n3.C# developers earn high salaries\n\nHow to Learn C# Free:\n\nSyntax and Variables.further, you’ll need to master the syntax for C#.\n\nThe next step in your journey will be to learn about variables. These are used to store data in a program. Here are the main topics related to syntax and variables that you’ll need to learn:\n\n1. How to create a C# program\n\n2.How to receive user input\n\n3. How to write comments\n\n4.How to declare a variable.\n\n4.What data types can be used with variables\n\n5.How to convert the data type used by a variable.\n\nLoops and Conditionals:\n\n Loops allow you to automate repetitive tasks in a program. They are useful because they allow you to reuse similar code multiple times instead of repeating code manually in your program.\n\n Conditionals allow you to control the flow of your program. They run certain code when a set of conditions is met in your program. This gives you greater control over when certain parts of a program are run.\n\nLoops and Conditionals\n\nLoops and Conditionals\n\nClasses and Objects\n\nInheritance and Interfaces:\n\nInheritance is a feature of object-oriented programming that allows you to create a class based on existing ones. Interfaces allow you to enforce certain properties on a class.\n\nBoth these features can help you reduce repetition in your code and write more efficient and readable programs. The main topics you should master are:\n\n1.What is an interface\n\n2.How to build an interface\n\n3.How to test an interface\n\n4.Parent and child classes\n\n5.How to create a parent class\n\n6.The inherited keyword\n\n7.Accessing inherited members using base\n\n8.Overriding inherited members of a class\n\nOnce you’ve mastered these basic topics, you’ll be ready to take the next step in your journey: building projects. Ideally, you’ll want to start building projects as soon as you can, even as you are learning these concepts. This will help you reinforce your knowledge and practice the theory that you have learned in class.\n\nIn addition, once you’ve learned the basics, you can go on to learn frameworks like .Net or explore the Unity game engine.\n\nLearn C# Online Resources\n\nBecause there are so many great resources out there on how to learn C#, it can be difficult to know where to begin.\n\nThe answer to that question lies in your learning style. Do you like online tutorials? Or do you prefer to read a book? Do you want to learn in a classroom-based environment or do you prefer working at your own pace? Whatever your learning style is, you should try to anchor the materials toward that style so you stay engaged.\n\nBuild a Project\n\nLearning from tutorials can only take you so far; after you’ve mastered the basics, you should start working on your own projects.\n\nWorking on projects is a great way to learn because they allow you to apply the theories that you have learned. This can help with boosting retention. You’ll have to think about both the concepts you have learned and how they apply to the specific project that you’re building.\n\nTo start, you should focus on building a few basic projects. This will help you get used to working on independent work that you’ve chosen. Then, when you’re ready, you can move your attention toward bigger projects.\n\nJoin a Developer Community\n\nPractice Your C# Skills\n\nWrapping up\n\nC# may be an older programming language than others, but it is still widely used today. And, it has an active developer community. If you want to build games for Windows, build websites using .Net, or just create an app for a Windows device, knowing C# is useful.",
+        "course_details": "What is c#?\n\nC# is a programming language which is pronounced 'C Sharped'.\n\nIt is originally designed for windows.\n\nThe C# programming language is a high-level programming language, which means it uses a more simple syntax than other languages like C++.\n\n C# abstracts away most of the machine-level code, so you can focus more on programming. The C# language is good for beginners for these reasons.\n\nWhy Should You Learn C#?\n\n1.C# has a good learning curve.\n\n2.C# is backed by Microsoft.\n\n3.C# developers earn high salaries\n\nHow to Learn C# Free:\n\nSyntax and Variables.further, you’ll need to master the syntax for C#.\n\nThe next step in your journey will be to learn about variables. These are used to store data in a program. Here are the main topics related to syntax and variables that you’ll need to learn:\n\n1. How to create a C# program\n\n2.How to receive user input\n\n3. How to write comments\n\n4.How to declare a variable.\n\n4.What data types can be used with variables\n\n5.How to convert the data type used by a variable.\n\nLoops and Conditionals:\n\n Loops allow you to automate repetitive tasks in a program. They are useful because they allow you to reuse similar code multiple times instead of repeating code manually in your program.\n\n Conditionals allow you to control the flow of your program. They run certain code when a set of conditions is met in your program. This gives you greater control over when certain parts of a program are run.\n\nLoops and Conditionals\n\nLoops and Conditionals\n\nClasses and Objects\n\nInheritance and Interfaces:\n\nInheritance is a feature of object-oriented programming that allows you to create a class based on existing ones. Interfaces allow you to enforce certain properties on a class.\n\nBoth these features can help you reduce repetition in your code and write more efficient and readable programs. The main topics you should master are:\n\n1.What is an interface\n\n2.How to build an interface\n\n3.How to test an interface\n\n4.Parent and child classes\n\n5.How to create a parent class\n\n6.The inherited keyword\n\n7.Accessing inherited members using base\n\n8.Overriding inherited members of a class\n\nOnce you’ve mastered these basic topics, you’ll be ready to take the next step in your journey: building projects. ideally, you’ll want to start building projects as soon as you can, even as you are learning these concepts. This will help you reinforce your knowledge and practice the theory that you have learned in class.\n\nIn addition, once you’ve learned the basics, you can go on to learn frameworks like .Net or explore the Unity game engine.\n\nLearn C# Online Resources\n\nBecause there are so many great resources out there on how to learn C#, it can be difficult to know where to begin.\n\nThe answer to that question lies in your learning style. Do you like online tutorials? Or do you prefer to read a book? Do you want to learn in a classroom-based environment or do you prefer working at your own pace? Whatever your learning style is, you should try to anchor the materials toward that style so you stay engaged.\n\nBuild a Project\n\nLearning from tutorials can only take you so far; after you’ve mastered the basics, you should start working on your own projects.\n\nWorking on projects is a great way to learn because they allow you to apply the theories that you have learned. This can help with boosting retention. You’ll have to think about both the concepts you have learned and how they apply to the specific project that you’re building.\n\nTo start, you should focus on building a few basic projects. This will help you get used to working on independent work that you’ve chosen. Then, when you’re ready, you can move your attention toward bigger projects.\n\nJoin a Developer Community\n\nPractice Your C# Skills\n\nWrapping up\n\nC# may be an older programming language than others, but it is still widely used today. And, it has an active developer community. If you want to build games for Windows, build websites using .Net, or just create an app for a Windows device, knowing C# is useful.",
         "instructor": {
             "instructor_name": "Maurie Bellwood",
             "instructor_img": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
@@ -17,7 +17,7 @@
         }
     },
     {
-        "id": "02",
+        "_id": "02",
         "course_id": "122996a0-6231-430c-97a3-2cbd17e9fc8d",
         "title": "Learn Responsive Design with HTML & CSS",
         "categories": "Programming Language",
@@ -34,7 +34,7 @@
         }
     },
     {
-        "id": "03",
+        "_id": "03",
         "course_id": "ac7a78ac-f7c3-4bc1-bee7-ee07e56558c3",
         "title": "Java Swing (GUI) Programming: From Beginner to Expert",
         "categories": "Programming Language",
@@ -51,7 +51,7 @@
         }
     },
     {
-        "id": "04",
+        "_id": "04",
         "course_id": "120419f1-7a53-4d1c-ad8b-88af6e437f8e",
         "title": "C++: From Beginner to Expert",
         "categories": "Programming Language",
@@ -68,7 +68,7 @@
         }
     },
     {
-        "id": "05",
+        "_id": "05",
         "course_id": "b0b592ac-5f77-4e55-8ef9-0e9332430023",
         "title": "Modern React with Redux",
         "categories": "Programming Language",
@@ -85,7 +85,7 @@
         }
     },
     {
-        "id": "06",
+        "_id": "06",
         "course_id": "54fb700c-bc4b-40e3-8e19-a6fe504b4073",
         "title": "React Front To Back",
         "categories": "Programming Language",
